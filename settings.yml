@@ -1,0 +1,7 @@
+account_settings:
+  private_key: ''
+
+snipe_settings:
+  snipe_address: ''
+  budget_in_wbnb: '0.1'
+  gasprice_in_gwei: '10'
